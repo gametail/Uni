@@ -25,7 +25,7 @@ public class Main {
 		car1.drive(1100);
 		System.out.println();
 		
-		BankAccount konto = new BankAccount("Zafer", "Sigil", "1234567890", 10000f);
+		BankAccount konto = new BankAccount("Zafer", "-----", "1234567890", 10000f);
 		System.out.println();
 		
 		konto.addBalance(2000000f);

@@ -16,7 +16,7 @@ Konto wurde erstellt.
 _______________________________________________
 KONTOAUSZUG
 _______________________________________________
-Name: Sigil
+Name: -----
 Vorname: Zafer
 Kontonummer: 1234567890
 Max. Dispo: 10000,00€.
