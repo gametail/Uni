@@ -1,3 +1,5 @@
+# Main Console Output
+```text
 Dieses Auto, der Marke VW fasst 60 Liter und hat einen durchschnittlichen Verbrauch von 5.0 l/100km und ist zugelassen auf GL-ZS-97.
 Der aktuelle Tankstand beträgt 0.0 Liter
 60.0 Liter getankt
@@ -11,9 +13,9 @@ Konto wurde erstellt.
 2000000,00€ wurde/n eingezahlt.
 150,25€ wurde/n augezahlt.
 
-________________________________________________
+_______________________________________________
 KONTOAUSZUG
-________________________________________________
+_______________________________________________
 Name: Sigil
 Vorname: Zafer
 Kontonummer: 1234567890
@@ -21,3 +23,4 @@ Max. Dispo: 10000,00€.
 ________________________________________________
 Aktueller Kontostand: 1999849,75€.
 ________________________________________________
+```
